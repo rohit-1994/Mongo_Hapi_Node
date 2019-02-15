@@ -1,5 +1,5 @@
 # Mongo_Express_Node
-This is the base project  build using  Node,Mongo and express
+This is the base project  build using  Node,Mongo and Hapi
 
 first run npm install --save
 then run node server.js
