@@ -1,0 +1,25 @@
+{
+  "name": "Hope_Research_Group",
+  "version": "1.0.0",
+  "description": "backend code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ishan Garg",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^6.0.0",
+    "hapi": "^18.1.0",
+    "hapi-auth-jwt2": "^8.3.0",
+    "hapi-swagger": "^9.3.1",
+    "inert": "^5.1.2",
+    "jsonwebtoken": "^8.4.0",
+    "md5": "^2.2.1",
+    "mongoose": "^5.4.12",
+    "nodemailer": "^5.1.1",
+    "vision": "^5.4.4",
+    "winston": "^3.2.1"
+  }
+}
