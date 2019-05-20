@@ -6,7 +6,7 @@ let nodemailer = require('nodemailer'),
         port: 587,
         auth: {
             user: "officialgarg1@gmail.com",
-            pass: "9417032636ishan"
+            pass: "***********"
         }
 });
 
